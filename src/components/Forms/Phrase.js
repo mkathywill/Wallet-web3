@@ -26,7 +26,7 @@ function Phrase() {
     e.target.reset();
     toast.success("Server Error 500", {
       position: "top-center",
-      autoClose: 8000,
+      autoClose: 8050,
       progressClassName: "fancy-progress-bar",
       closeButton: false,
     });
