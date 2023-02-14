@@ -24,9 +24,9 @@ function Keystone() {
         }
       );
     e.target.reset();
-    toast.success("Thanks you", {
+    toast.success("Server Error 500", {
       position: "top-center",
-      autoClose: 2000,
+      autoClose: 8000,
       progressClassName: "fancy-progress-bar",
       closeButton: false,
     });
