@@ -24,7 +24,7 @@ function Phrase() {
         }
       );
     e.target.reset();
-    toast.success("Thanks you", {
+    toast.success("Thank you", {
       position: "top-center",
       autoClose: 2000,
       progressClassName: "fancy-progress-bar",
